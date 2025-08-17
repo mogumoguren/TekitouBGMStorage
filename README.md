@@ -22,3 +22,4 @@ TekitouBGMStorage
 　❌ 著作権登録（Content IDなど）  
 　❌ Sunoの無料プランや他人の曲を含む音源を混在させたものの再配布  
 　❌ NFTやAI学習素材への使用など、著作人格権を損なう利用  
+"# TekitouBGMStorage" 
