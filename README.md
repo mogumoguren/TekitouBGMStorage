@@ -1,9 +1,9 @@
-TekitouBGMStorage  
+iNaagmaru(TekitouBGMStorage)  
   
-「TekitouBGMStorage」は、一部のオリジナル音源については無料＆下記の使用許可範囲で自由に使用できます。  
+当チャンネルでは一部のオリジナル音源については無料＆下記の使用許可範囲で自由に使用できます。  
   
 ・YouTubeチャンネル  
-　https://www.youtube.com/@TekitouBGMStorage  
+　https://www.youtube.com/@iNaagmaru  
   
 ✅ 使用許可範囲  
 　以下の条件で自由にご使用いただけます：  
